@@ -63,7 +63,6 @@ public class UpdateServlet extends HttpServlet {
 
         }
 
-        doGet(request, response);
     }
 
 }
